@@ -1,0 +1,8 @@
+{
+  "name": "songxiao-gulp-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/songxiao1124/songxiao-gulp-demo.git",
+  "author": "songxiao <2468217851@qq.com>",
+  "license": "MIT"
+}
